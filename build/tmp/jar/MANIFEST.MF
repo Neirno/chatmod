@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: nexus_helper
+Implementation-Version: 1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2021-09-14T22:18:37+0300
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+
